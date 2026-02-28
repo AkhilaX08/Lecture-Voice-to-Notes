@@ -54,6 +54,9 @@ Students often struggle to take complete notes during lectures because it’s di
 4. **Quiz & Flashcard Generation** – Key points are converted into MCQs, short answers, and flashcards using generative AI
 5. **Output Display** – Summarized notes and quizzes are displayed in the Streamlit web app
 
+
+APP LINK : https://lecture-voice-to-notes-2hhcvmr6pvsu3drgappqsgi.streamlit.app/
+
 ---
 
 ## **Installation Instructions**
