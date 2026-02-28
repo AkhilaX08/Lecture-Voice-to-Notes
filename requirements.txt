@@ -1,0 +1,7 @@
+ streamlit
+openai-whisper
+transformers
+torch
+nltk
+scikit-learn
+fpdf
